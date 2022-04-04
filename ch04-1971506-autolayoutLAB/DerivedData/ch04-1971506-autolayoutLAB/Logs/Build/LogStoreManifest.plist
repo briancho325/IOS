@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2DC95F3F-C775-4E41-9BAD-684D14808471</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2DC95F3F-C775-4E41-9BAD-684D14808471.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch04-1971506-autolayoutLAB project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch04-1971506-autolayoutLAB</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>timeStartedRecording</key>
+			<real>670249942.74199104</real>
+			<key>timeStoppedRecording</key>
+			<real>670249942.91764903</real>
+			<key>title</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>uniqueIdentifier</key>
+			<string>2DC95F3F-C775-4E41-9BAD-684D14808471</string>
+		</dict>
+		<key>62C1556A-D012-4A7B-B0D9-71C0D4F4D69A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>62C1556A-D012-4A7B-B0D9-71C0D4F4D69A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch04-1971506-autolayoutLAB project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch04-1971506-autolayoutLAB</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>timeStartedRecording</key>
+			<real>670249921.23697603</real>
+			<key>timeStoppedRecording</key>
+			<real>670249921.68447995</real>
+			<key>title</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>uniqueIdentifier</key>
+			<string>62C1556A-D012-4A7B-B0D9-71C0D4F4D69A</string>
+		</dict>
+		<key>D8D3E533-26E1-44A2-975F-6803C1921528</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D8D3E533-26E1-44A2-975F-6803C1921528.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch04-1971506-autolayoutLAB project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch04-1971506-autolayoutLAB</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>timeStartedRecording</key>
+			<real>670249153.35714102</real>
+			<key>timeStoppedRecording</key>
+			<real>670249153.50509501</real>
+			<key>title</key>
+			<string>Build ch04-1971506-autolayoutLAB</string>
+			<key>uniqueIdentifier</key>
+			<string>D8D3E533-26E1-44A2-975F-6803C1921528</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

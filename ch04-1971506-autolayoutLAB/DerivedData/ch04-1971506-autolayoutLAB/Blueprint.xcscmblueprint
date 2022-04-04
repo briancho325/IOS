@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5671DE9B98ADBE2E9F9618F823BEAC4ADE1A8FDD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5671DE9B98ADBE2E9F9618F823BEAC4ADE1A8FDD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "009B1945-9421-428B-89D3-D10682C12288",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5671DE9B98ADBE2E9F9618F823BEAC4ADE1A8FDD" : "GIT\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ch04-1971506-autolayoutLAB",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ch04-1971506-autolayoutLAB\/ch04-1971506-autolayoutLAB.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/briancho325\/IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5671DE9B98ADBE2E9F9618F823BEAC4ADE1A8FDD"
+    }
+  ]
+}

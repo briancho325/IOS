@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "07a127c66b6fd5bf181fb3865be3957776568f2857da5d0a14eb05b4d12aa40f"
+    }
+  ],
+  "containerPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/ch04-1971506-autolayout.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/Build/Products",
+      "derivedDataPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

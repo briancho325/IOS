@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>68674219-062D-461B-920E-52D9C221299E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>68674219-062D-461B-920E-52D9C221299E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch04-1971506-autolayout project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch04-1971506-autolayout</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch04-1971506-autolayout</string>
+			<key>timeStartedRecording</key>
+			<real>670176306.38281095</real>
+			<key>timeStoppedRecording</key>
+			<real>670176310.168859</real>
+			<key>title</key>
+			<string>Build ch04-1971506-autolayout</string>
+			<key>uniqueIdentifier</key>
+			<string>68674219-062D-461B-920E-52D9C221299E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "07a127c66b6fd5bf181fb3865be3957776568f2857da5d0a14eb05b4d12aa40f"
+    }
+  ],
+  "containerPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/ch04-1971506-autolayout.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Build/Products",
+      "derivedDataPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/GIT/ch04-1971506-autolayout/DerivedData/ch04-1971506-autolayout/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,8",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "4882241F-4DA0-4060-B1E2-F91638F8067B",
+          "TARGET_DEVICE_MODEL" : "iPhone12,8",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

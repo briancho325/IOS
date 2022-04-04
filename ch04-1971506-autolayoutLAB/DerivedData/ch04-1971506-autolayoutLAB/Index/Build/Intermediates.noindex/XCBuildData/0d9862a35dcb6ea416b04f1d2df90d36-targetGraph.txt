@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+ch04-1971506-autolayoutLAB in ch04-1971506-autolayoutLAB, no dependencies
+ch04-1971506-autolayoutLAB in ch04-1971506-autolayoutLAB, no dependencies
