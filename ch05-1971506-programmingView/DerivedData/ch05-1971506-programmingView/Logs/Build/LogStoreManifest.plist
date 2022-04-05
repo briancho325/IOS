@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0996F3F5-EE98-40AA-BC71-4F7DF630772A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0996F3F5-EE98-40AA-BC71-4F7DF630772A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch05-1971506-programmingView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch05-1971506-programmingView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch05-1971506-programmingView</string>
+			<key>timeStartedRecording</key>
+			<real>670859466.33203197</real>
+			<key>timeStoppedRecording</key>
+			<real>670859467.051126</real>
+			<key>title</key>
+			<string>Build ch05-1971506-programmingView</string>
+			<key>uniqueIdentifier</key>
+			<string>0996F3F5-EE98-40AA-BC71-4F7DF630772A</string>
+		</dict>
+		<key>70DFC751-2DEE-483F-B2F8-6A90281C8DBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70DFC751-2DEE-483F-B2F8-6A90281C8DBC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch05-1971506-programmingView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch05-1971506-programmingView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch05-1971506-programmingView</string>
+			<key>timeStartedRecording</key>
+			<real>670859393.97422194</real>
+			<key>timeStoppedRecording</key>
+			<real>670859394.04628301</real>
+			<key>title</key>
+			<string>Build ch05-1971506-programmingView</string>
+			<key>uniqueIdentifier</key>
+			<string>70DFC751-2DEE-483F-B2F8-6A90281C8DBC</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

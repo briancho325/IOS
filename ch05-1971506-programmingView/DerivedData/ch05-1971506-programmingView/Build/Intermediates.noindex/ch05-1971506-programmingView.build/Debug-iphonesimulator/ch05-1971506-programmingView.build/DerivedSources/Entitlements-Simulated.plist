@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>Z87Z9V452D.briancho.ch05-1971506-programmingView</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>Z87Z9V452D.briancho.ch05-1971506-programmingView</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1649166244, 339784145]
+build_end_time: [1649166244, 984321117]
+inputs:
+  "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/ch05-1971506-programmingView/AppDelegate.swift": [1649160804, 673807144]
+  "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/ch05-1971506-programmingView/ConversionViewController.swift": [1649166230, 223060607]
+  "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/ch05-1971506-programmingView/SceneDelegate.swift": [1649156771, 286658525]

@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2a069eb515bfa5ace25d45be8dc67d273dad8558816613866632d08d36bc8412"
+    }
+  ],
+  "containerPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/ch05-1971506-programmingView.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData/ch05-1971506-programmingView/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData/ch05-1971506-programmingView/Build/Products",
+      "derivedDataPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData/ch05-1971506-programmingView/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData/ch05-1971506-programmingView/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/Documents/GitHub/IOS/ch05-1971506-programmingView/DerivedData/ch05-1971506-programmingView/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "23E61B49-6CBD-4B3D-A346-375F72378136",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
