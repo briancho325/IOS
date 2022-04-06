@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "6f8483987eb34e6f2269ad29317cbcd9598a6dd5010319351314b7f6134a59c8"
+    }
+  ],
+  "containerPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/ch06-1971506-test.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Index/Build/Products",
+      "derivedDataPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-test/DerivedData/ch06-1971506-test/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
