@@ -1,0 +1,64 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d3a903d9097655b83aa097e1dbda484475f29d24deab0008fdfd45427e059d95"
+    }
+  ],
+  "containerPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/ch06-1971506-tabBarController.2.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData/ch06-1971506-tabBarController.2/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData/ch06-1971506-tabBarController.2/Build/Products",
+      "derivedDataPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData/ch06-1971506-tabBarController.2/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData/ch06-1971506-tabBarController.2/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/DerivedData/ch06-1971506-tabBarController.2/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,8",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "4882241F-4DA0-4060-B1E2-F91638F8067B",
+          "TARGET_DEVICE_MODEL" : "iPhone12,8",
+          "TARGET_DEVICE_OS_VERSION" : "15.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

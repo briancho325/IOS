@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A5433745B2E6AF828C50244EEA1B095C7EF94AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A5433745B2E6AF828C50244EEA1B095C7EF94AD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3E85C19F-59E9-458A-B40C-E062EA1AB8C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A5433745B2E6AF828C50244EEA1B095C7EF94AD" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ch06-1971506-tabBarController.2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ch06-1971506-tabBarController.2\/ch06-1971506-tabBarController.2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/briancho325\/IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A5433745B2E6AF828C50244EEA1B095C7EF94AD"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F0C924C-FDB8-47EF-985D-53194AC31C9B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0F0C924C-FDB8-47EF-985D-53194AC31C9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671460136.07052398</real>
+			<key>timeStoppedRecording</key>
+			<real>671460222.11897004</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>0F0C924C-FDB8-47EF-985D-53194AC31C9B</string>
+		</dict>
+		<key>466E8AD2-9FD7-482D-A503-31F3F5D78854</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>466E8AD2-9FD7-482D-A503-31F3F5D78854.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671461182.73794901</real>
+			<key>timeStoppedRecording</key>
+			<real>671461234.394557</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>466E8AD2-9FD7-482D-A503-31F3F5D78854</string>
+		</dict>
+		<key>6B56DD44-CC6F-4014-A6D2-BE269753A3A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B56DD44-CC6F-4014-A6D2-BE269753A3A7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671460499.38700998</real>
+			<key>timeStoppedRecording</key>
+			<real>671460621.46377599</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>6B56DD44-CC6F-4014-A6D2-BE269753A3A7</string>
+		</dict>
+		<key>6C72B153-AC50-415F-9EEC-C5CAFF38A330</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6C72B153-AC50-415F-9EEC-C5CAFF38A330.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671460631.08695698</real>
+			<key>timeStoppedRecording</key>
+			<real>671460768.81252801</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>6C72B153-AC50-415F-9EEC-C5CAFF38A330</string>
+		</dict>
+		<key>79F6FE51-3E45-4737-B822-C563765553E5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>79F6FE51-3E45-4737-B822-C563765553E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671461312.10474396</real>
+			<key>timeStoppedRecording</key>
+			<real>671461390.92822194</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>79F6FE51-3E45-4737-B822-C563765553E5</string>
+		</dict>
+		<key>7BC0FBDA-7A2F-49E0-811D-97FEE694BF32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7BC0FBDA-7A2F-49E0-811D-97FEE694BF32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671463123.65938306</real>
+			<key>timeStoppedRecording</key>
+			<real>671463164.693385</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>7BC0FBDA-7A2F-49E0-811D-97FEE694BF32</string>
+		</dict>
+		<key>B2216D59-FEA7-447F-A8C7-A24C7BBE6864</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B2216D59-FEA7-447F-A8C7-A24C7BBE6864.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671461390.79010606</real>
+			<key>timeStoppedRecording</key>
+			<real>671461661.26907098</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>B2216D59-FEA7-447F-A8C7-A24C7BBE6864</string>
+		</dict>
+		<key>B5D9E0B0-D151-43D9-AE76-855972B1DBD5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B5D9E0B0-D151-43D9-AE76-855972B1DBD5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671460360.59381294</real>
+			<key>timeStoppedRecording</key>
+			<real>671460499.48001397</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>B5D9E0B0-D151-43D9-AE76-855972B1DBD5</string>
+		</dict>
+		<key>B771C98F-B42C-4E25-A302-BFF1214BEDC1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B771C98F-B42C-4E25-A302-BFF1214BEDC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671463000.15903902</real>
+			<key>timeStoppedRecording</key>
+			<real>671463043.95116496</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>B771C98F-B42C-4E25-A302-BFF1214BEDC1</string>
+		</dict>
+		<key>DA250366-BB8B-479C-83BD-C81599FACDF8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA250366-BB8B-479C-83BD-C81599FACDF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671462334.70527995</real>
+			<key>timeStoppedRecording</key>
+			<real>671462847.47071099</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>DA250366-BB8B-479C-83BD-C81599FACDF8</string>
+		</dict>
+		<key>DCEA98B0-EFA0-4648-B622-B2C6E7D30B90</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DCEA98B0-EFA0-4648-B622-B2C6E7D30B90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671461674.71807301</real>
+			<key>timeStoppedRecording</key>
+			<real>671462334.85334396</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>DCEA98B0-EFA0-4648-B622-B2C6E7D30B90</string>
+		</dict>
+		<key>DE9C2E57-7701-4837-9F50-78B32CAAC260</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE9C2E57-7701-4837-9F50-78B32CAAC260.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671460768.67069805</real>
+			<key>timeStoppedRecording</key>
+			<real>671460978.27133703</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>DE9C2E57-7701-4837-9F50-78B32CAAC260</string>
+		</dict>
+		<key>E06ECB54-DFB2-4100-9F4C-54ECA2CC1077</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E06ECB54-DFB2-4100-9F4C-54ECA2CC1077.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch06-1971506-tabBarController.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch06-1971506-tabBarController.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>timeStartedRecording</key>
+			<real>671461234.24176502</real>
+			<key>timeStoppedRecording</key>
+			<real>671461301.28157699</real>
+			<key>title</key>
+			<string>Run ch06-1971506-tabBarController.2</string>
+			<key>uniqueIdentifier</key>
+			<string>E06ECB54-DFB2-4100-9F4C-54ECA2CC1077</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

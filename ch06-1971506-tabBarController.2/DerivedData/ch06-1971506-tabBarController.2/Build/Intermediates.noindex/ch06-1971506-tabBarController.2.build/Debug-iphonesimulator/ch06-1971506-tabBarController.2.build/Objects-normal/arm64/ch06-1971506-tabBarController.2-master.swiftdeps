@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1649770320, 977077960]
+build_end_time: [1649770321, 560570001]
+inputs:
+  "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/ch06-1971506-tabBarController.2/AppDelegate.swift": [1649765161, 285010814]
+  "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/ch06-1971506-tabBarController.2/CityViewController.swift": [1649768855, 226833343]
+  "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/ch06-1971506-tabBarController.2/MapViewController.swift": [1649770195, 620856523]
+  "/Users/briancho/Documents/GitHub/IOS/ch06-1971506-tabBarController.2/ch06-1971506-tabBarController.2/SceneDelegate.swift": [1649767422, 123494625]
