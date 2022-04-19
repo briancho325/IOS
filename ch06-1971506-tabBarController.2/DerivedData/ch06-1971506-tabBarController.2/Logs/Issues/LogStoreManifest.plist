@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>6550517B-17B3-4741-9DAD-80386BA79D45</key>
+		<key>7D42114E-FB98-4800-A0E1-A60D420167C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>6550517B-17B3-4741-9DAD-80386BA79D45.xcactivitylog</string>
+			<string>7D42114E-FB98-4800-A0E1-A60D420167C0.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>ch06-1971506-tabBarController.2-assfmlfmrnsppiavmnixzljmluxi</string>
 			<key>timeStartedRecording</key>
-			<real>671463120.74394906</real>
+			<real>672055538.55086398</real>
 			<key>timeStoppedRecording</key>
-			<real>671463123.64401805</real>
+			<real>672055542.52841306</real>
 			<key>title</key>
 			<string>Build target ch06-1971506-tabBarController.2</string>
 			<key>uniqueIdentifier</key>
-			<string>6550517B-17B3-4741-9DAD-80386BA79D45</string>
+			<string>7D42114E-FB98-4800-A0E1-A60D420167C0</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

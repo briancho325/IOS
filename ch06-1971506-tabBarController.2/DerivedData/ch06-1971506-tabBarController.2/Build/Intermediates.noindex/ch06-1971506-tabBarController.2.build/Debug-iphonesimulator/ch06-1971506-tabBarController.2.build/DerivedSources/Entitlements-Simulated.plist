@@ -4,9 +4,5 @@
 <dict>
 	<key>application-identifier</key>
 	<string>Z87Z9V452D.briancho.ch06-1971506-tabBarController-2</string>
-	<key>keychain-access-groups</key>
-	<array>
-		<string>Z87Z9V452D.briancho.ch06-1971506-tabBarController-2</string>
-	</array>
 </dict>
 </plist>

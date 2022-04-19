@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>80515A0F-736D-4906-87E6-D5F60D3045DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>80515A0F-736D-4906-87E6-D5F60D3045DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch07-1971506-weather</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch07-1971506-weather (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ch07-1971506-weather (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>672051584.52796698</real>
+			<key>timeStoppedRecording</key>
+			<real>672051584.56078398</real>
+			<key>title</key>
+			<string>Build ch07-1971506-weather (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>80515A0F-736D-4906-87E6-D5F60D3045DE</string>
+		</dict>
+		<key>899AC93D-816F-473E-AB8A-34F5ADDDDC13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>899AC93D-816F-473E-AB8A-34F5ADDDDC13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch07-1971506-weather</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch07-1971506-weather (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build ch07-1971506-weather (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>672054510.04682195</real>
+			<key>timeStoppedRecording</key>
+			<real>672054510.14537203</real>
+			<key>title</key>
+			<string>Build ch07-1971506-weather (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>899AC93D-816F-473E-AB8A-34F5ADDDDC13</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

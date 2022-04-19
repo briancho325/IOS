@@ -5,31 +5,13 @@
   "children": [
     {
       "kind": "Import",
-      "name": "MapKit",
-      "printedName": "MapKit",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "SwiftOnoneSupport",
-      "printedName": "SwiftOnoneSupport",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "_Concurrency",
-      "printedName": "_Concurrency",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
+      "moduleName": "ch06_1971506_tabBarController_2",
+      "declAttributes": [
+        "RawDocComment"
+      ]
     },
     {
       "kind": "TypeDecl",
@@ -55,9 +37,9 @@
           "declAttributes": [
             "HasInitialValue",
             "Custom",
-            "IBOutlet",
-            "ReferenceOwnership",
             "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
             "ObjC"
           ],
           "fixedbinaryorder": 0,
@@ -696,31 +678,13 @@
     },
     {
       "kind": "Import",
-      "name": "MapKit",
-      "printedName": "MapKit",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "SwiftOnoneSupport",
-      "printedName": "SwiftOnoneSupport",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "_Concurrency",
-      "printedName": "_Concurrency",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
+      "moduleName": "ch06_1971506_tabBarController_2",
+      "declAttributes": [
+        "RawDocComment"
+      ]
     },
     {
       "kind": "TypeDecl",
@@ -822,7 +786,8 @@
           "objc_name": "application:configurationForConnectingSceneSession:options:",
           "declAttributes": [
             "ObjC",
-            "Custom"
+            "Custom",
+            "RawDocComment"
           ],
           "funcSelfKind": "NonMutating"
         },
@@ -870,6 +835,28 @@
           "funcSelfKind": "NonMutating"
         },
         {
+          "kind": "Function",
+          "name": "$main",
+          "printedName": "$main()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:31ch06_1971506_tabBarController_211AppDelegateC5$mainyyFZ",
+          "mangledName": "$s31ch06_1971506_tabBarController_211AppDelegateC5$mainyyFZ",
+          "moduleName": "ch06_1971506_tabBarController_2",
+          "static": true,
+          "implicit": true,
+          "declAttributes": [
+            "Final"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
           "kind": "Constructor",
           "name": "init",
           "printedName": "init()",
@@ -894,28 +881,6 @@
             "Override"
           ],
           "init_kind": "Designated"
-        },
-        {
-          "kind": "Function",
-          "name": "$main",
-          "printedName": "$main()",
-          "children": [
-            {
-              "kind": "TypeNominal",
-              "name": "Void",
-              "printedName": "()"
-            }
-          ],
-          "declKind": "Func",
-          "usr": "s:31ch06_1971506_tabBarController_211AppDelegateC5$mainyyFZ",
-          "mangledName": "$s31ch06_1971506_tabBarController_211AppDelegateC5$mainyyFZ",
-          "moduleName": "ch06_1971506_tabBarController_2",
-          "static": true,
-          "implicit": true,
-          "declAttributes": [
-            "Final"
-          ],
-          "funcSelfKind": "NonMutating"
         }
       ],
       "declKind": "Class",
@@ -988,31 +953,13 @@
     },
     {
       "kind": "Import",
-      "name": "MapKit",
-      "printedName": "MapKit",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "SwiftOnoneSupport",
-      "printedName": "SwiftOnoneSupport",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "_Concurrency",
-      "printedName": "_Concurrency",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
+      "moduleName": "ch06_1971506_tabBarController_2",
+      "declAttributes": [
+        "RawDocComment"
+      ]
     },
     {
       "kind": "TypeDecl",
@@ -1426,29 +1373,18 @@
     },
     {
       "kind": "Import",
-      "name": "MapKit",
-      "printedName": "MapKit",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
-      "name": "SwiftOnoneSupport",
-      "printedName": "SwiftOnoneSupport",
-      "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
-    },
-    {
-      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
-      "moduleName": "ch06_1971506_tabBarController_2"
+      "moduleName": "ch06_1971506_tabBarController_2",
+      "declAttributes": [
+        "RawDocComment"
+      ]
     },
     {
       "kind": "Import",
-      "name": "_Concurrency",
-      "printedName": "_Concurrency",
+      "name": "MapKit",
+      "printedName": "MapKit",
       "declKind": "Import",
       "moduleName": "ch06_1971506_tabBarController_2"
     },
@@ -1476,9 +1412,9 @@
           "declAttributes": [
             "HasInitialValue",
             "Custom",
-            "IBOutlet",
-            "ReferenceOwnership",
             "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
             "ObjC"
           ],
           "fixedbinaryorder": 0,

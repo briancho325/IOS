@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1650362693, 22482872]
+build_end_time: [1650362693, 363517999]
+inputs:
+  "/Users/briancho/Documents/GitHub/IOS/ch07-1971506-webService/ch07-1971506-webService/AppDelegate.swift": [1649765161, 285010814]
+  "/Users/briancho/Documents/GitHub/IOS/ch07-1971506-webService/ch07-1971506-webService/CityViewController.swift": [1649768855, 226833343]
+  "/Users/briancho/Documents/GitHub/IOS/ch07-1971506-webService/ch07-1971506-webService/MapViewController.swift": [1650362652, 430098056]
+  "/Users/briancho/Documents/GitHub/IOS/ch07-1971506-webService/ch07-1971506-webService/SceneDelegate.swift": [1649767422, 123494625]

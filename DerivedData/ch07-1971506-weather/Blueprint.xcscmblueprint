@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A5433745B2E6AF828C50244EEA1B095C7EF94AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A5433745B2E6AF828C50244EEA1B095C7EF94AD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FFA7AD5A-85D6-42D3-9095-F39F1DFCCA39",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A5433745B2E6AF828C50244EEA1B095C7EF94AD" : "IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ch07-1971506-weather",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ch07-1971506-weather.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/briancho325\/IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A5433745B2E6AF828C50244EEA1B095C7EF94AD"
+    }
+  ]
+}

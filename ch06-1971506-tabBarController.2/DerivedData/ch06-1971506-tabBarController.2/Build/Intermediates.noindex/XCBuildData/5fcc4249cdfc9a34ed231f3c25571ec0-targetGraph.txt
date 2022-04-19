@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+ch06-1971506-tabBarController.2 in ch06-1971506-tabBarController.2, no dependencies

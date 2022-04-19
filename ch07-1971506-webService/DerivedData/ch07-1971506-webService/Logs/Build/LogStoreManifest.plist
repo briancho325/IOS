@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>91A0DDA2-ADBB-48F1-B90C-EB42710BF987</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91A0DDA2-ADBB-48F1-B90C-EB42710BF987.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch07-1971506-webService project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch07-1971506-webService</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch07-1971506-webService</string>
+			<key>timeStartedRecording</key>
+			<real>672056068.58298504</real>
+			<key>timeStoppedRecording</key>
+			<real>672056069.61872005</real>
+			<key>title</key>
+			<string>Build ch07-1971506-webService</string>
+			<key>uniqueIdentifier</key>
+			<string>91A0DDA2-ADBB-48F1-B90C-EB42710BF987</string>
+		</dict>
+		<key>C4F8845C-1C4B-4F19-B7EB-6E06E51D4FF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4F8845C-1C4B-4F19-B7EB-6E06E51D4FF4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ch07-1971506-webService project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ch07-1971506-webService</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ch07-1971506-webService</string>
+			<key>timeStartedRecording</key>
+			<real>672056229.83308697</real>
+			<key>timeStoppedRecording</key>
+			<real>672056229.91251194</real>
+			<key>title</key>
+			<string>Build ch07-1971506-webService</string>
+			<key>uniqueIdentifier</key>
+			<string>C4F8845C-1C4B-4F19-B7EB-6E06E51D4FF4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

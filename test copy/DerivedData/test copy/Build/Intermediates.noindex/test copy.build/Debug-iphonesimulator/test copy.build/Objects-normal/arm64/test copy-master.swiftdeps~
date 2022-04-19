@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1650364774, 401540040]
+build_end_time: [1650364777, 350707054]
+inputs:
+  "/Users/briancho/Documents/GitHub/IOS/test copy/test copy/AppDelegate.swift": [1649765161, 285010814]
+  "/Users/briancho/Documents/GitHub/IOS/test copy/test copy/CityViewController.swift": [1649768855, 226833343]
+  "/Users/briancho/Documents/GitHub/IOS/test copy/test copy/MapViewController.swift": [1650364774, 279811859]
+  "/Users/briancho/Documents/GitHub/IOS/test copy/test copy/SceneDelegate.swift": [1649767422, 123494625]
