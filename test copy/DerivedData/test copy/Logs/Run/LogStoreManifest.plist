@@ -40,6 +40,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4C9CDCE6-8C18-4D80-A676-B8EB715F4B77</string>
 		</dict>
+		<key>A7B97225-A901-475F-B392-939BAB44A578</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A7B97225-A901-475F-B392-939BAB44A578.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test copy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test copy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run test copy</string>
+			<key>timeStartedRecording</key>
+			<real>672058383.79488504</real>
+			<key>timeStoppedRecording</key>
+			<real>672058427.31613398</real>
+			<key>title</key>
+			<string>Run test copy</string>
+			<key>uniqueIdentifier</key>
+			<string>A7B97225-A901-475F-B392-939BAB44A578</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
