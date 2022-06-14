@@ -1,0 +1,67 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2544076b352268e544981cced68da85b087d56e313d8e726076e58749bfa70a4"
+    },
+    {
+      "guid" : "2544076b352268e544981cced68da85b03ae1a301d9c4fd7572bd00b6bd3a2c3"
+    },
+    {
+      "guid" : "2544076b352268e544981cced68da85b66c7d45130077f4815f81c69cc85939c"
+    }
+  ],
+  "containerPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/SwiftUIClass.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.5",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Index/Build/Products",
+      "derivedDataPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/DerivedData/SwiftUIClass/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

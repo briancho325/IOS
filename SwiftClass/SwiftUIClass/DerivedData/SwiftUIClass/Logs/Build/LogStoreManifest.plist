@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A0E4C3A-517B-4EFC-A8AD-9A1286134AA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A0E4C3A-517B-4EFC-A8AD-9A1286134AA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIClass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIClass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIClass</string>
+			<key>timeStartedRecording</key>
+			<real>676741603.64324498</real>
+			<key>timeStoppedRecording</key>
+			<real>676741603.70703399</real>
+			<key>title</key>
+			<string>Build SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>1A0E4C3A-517B-4EFC-A8AD-9A1286134AA8</string>
+		</dict>
+		<key>6A8548C5-9518-4BF8-A872-A66FA8FDB3C8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A8548C5-9518-4BF8-A872-A66FA8FDB3C8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIClass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIClass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean SwiftUIClass</string>
+			<key>timeStartedRecording</key>
+			<real>676741779.84999704</real>
+			<key>timeStoppedRecording</key>
+			<real>676741779.88336897</real>
+			<key>title</key>
+			<string>Clean SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>6A8548C5-9518-4BF8-A872-A66FA8FDB3C8</string>
+		</dict>
+		<key>C7C4DE10-1E87-41BC-8962-9526858CDFB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7C4DE10-1E87-41BC-8962-9526858CDFB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIClass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIClass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIClass</string>
+			<key>timeStartedRecording</key>
+			<real>676741774.34689796</real>
+			<key>timeStoppedRecording</key>
+			<real>676741775.43020797</real>
+			<key>title</key>
+			<string>Build SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>C7C4DE10-1E87-41BC-8962-9526858CDFB5</string>
+		</dict>
+		<key>D115B602-7B07-4693-9AB9-781D87F737D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D115B602-7B07-4693-9AB9-781D87F737D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUIClass project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUIClass</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build SwiftUIClass</string>
+			<key>timeStartedRecording</key>
+			<real>676741781.42376196</real>
+			<key>timeStoppedRecording</key>
+			<real>676741781.46791804</real>
+			<key>title</key>
+			<string>Build SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>D115B602-7B07-4693-9AB9-781D87F737D9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

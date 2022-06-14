@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0BE22BDC-E8D4-41AF-9437-A3E04D95C637</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>0BE22BDC-E8D4-41AF-9437-A3E04D95C637.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftUIClass-fsacfitvjczaknfvuoqffzlheirf</string>
+			<key>timeStartedRecording</key>
+			<real>676741603.70410299</real>
+			<key>timeStoppedRecording</key>
+			<real>676741603.70424795</real>
+			<key>title</key>
+			<string>Build target SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>0BE22BDC-E8D4-41AF-9437-A3E04D95C637</string>
+		</dict>
+		<key>393BB3E5-E8D0-4CD2-B606-44B04EBC6128</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>393BB3E5-E8D0-4CD2-B606-44B04EBC6128.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>SwiftUIClass-cncjshdkxgaqovagqjmebccmzarw</string>
+			<key>timeStartedRecording</key>
+			<real>676741781.46515203</real>
+			<key>timeStoppedRecording</key>
+			<real>676741781.46527004</real>
+			<key>title</key>
+			<string>Build target SwiftUIClass</string>
+			<key>uniqueIdentifier</key>
+			<string>393BB3E5-E8D0-4CD2-B606-44B04EBC6128</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

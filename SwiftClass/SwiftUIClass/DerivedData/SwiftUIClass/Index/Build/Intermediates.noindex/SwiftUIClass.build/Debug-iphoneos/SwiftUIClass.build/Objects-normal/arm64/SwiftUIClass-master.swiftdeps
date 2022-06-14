@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "8c4cc6af5aa52971e01f674ffd838d93ae7f5fc1782ce61508382f6e0020383f"
+build_start_time: [1655048983, 358100891]
+build_end_time: [1655048983, 452516078]
+inputs:
+  "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/SwiftUIClass/AppDelegate.swift": !dirty [1654050144, 0]
+  "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/SwiftUIClass/Controller/ViewController.swift": !dirty [1654062144, 0]
+  "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/SwiftUIClass/Model/Food.swift": !dirty [1654059916, 0]
+  "/Users/briancho/Documents/GitHub/IOS/SwiftClass/SwiftUIClass/SwiftUIClass/SceneDelegate.swift": !dirty [1654050144, 0]

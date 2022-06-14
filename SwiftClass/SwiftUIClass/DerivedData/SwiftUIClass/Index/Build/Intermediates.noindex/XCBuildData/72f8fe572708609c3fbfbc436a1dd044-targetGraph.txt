@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+SwiftUIClass in SwiftUIClass, no dependencies
+SwiftUIClass in SwiftUIClass, no dependencies
+SwiftUIClassTests in SwiftUIClass, depends on:
+SwiftUIClass in SwiftUIClass (explicit)
+SwiftUIClassTests in SwiftUIClass, depends on:
+SwiftUIClass in SwiftUIClass (explicit)
+SwiftUIClassTests in SwiftUIClass, no dependencies
+SwiftUIClassUITests in SwiftUIClass, depends on:
+SwiftUIClass in SwiftUIClass (explicit)
+SwiftUIClassUITests in SwiftUIClass, depends on:
+SwiftUIClass in SwiftUIClass (explicit)
+SwiftUIClassUITests in SwiftUIClass, no dependencies
